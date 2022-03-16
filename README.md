@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azamt18
 - 👀 I’m interested in software programming and PM(project management)
-- 🌱 I’m currently learning C# & .NET and related tech stack
+- 🌱 I’m currently learning C# & .NET and Go related tech stack
 - 💞️ I’m looking to collaborate on education & software development
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/azam-turgunboev/), [Facebook](https://www.facebook.com/azam.yooldawevic/), [Telegram](https://tg://user?id=350696802)
 
